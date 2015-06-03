@@ -7,7 +7,7 @@ This is the main class of the Text Based Game Weatherill
 
 import java.util.*;
 
-public class weatherill
+public class Weatherill
 {
 	public static void main (String[]args)
 	{

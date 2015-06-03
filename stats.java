@@ -1,5 +1,5 @@
 //this class controls the stats of the players character
-public class stats
+public class Stats
 {
 	private String name;
 	private int health;

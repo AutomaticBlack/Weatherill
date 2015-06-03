@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class start extends weatherill
+public class Start extends weatherill
 {
 
 	Scanner keyboard = new Scanner (System.in);
