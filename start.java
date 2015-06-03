@@ -10,7 +10,7 @@ public class start extends weatherill
 
 
 		String name = keyboard.nextLine();
-		Stat guy = new Stat(name);
+		stat guy = new stat(name);
 	}
 
 
